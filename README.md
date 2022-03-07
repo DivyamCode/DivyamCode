@@ -55,9 +55,8 @@ A computer science enthusiast with college project experience in full stack, mob
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="divyam-verma-782310225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/divyam-verma-782310225?trk=profile-badge">Divyam verma</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-vermadivyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermadivyam/)](https://www.linkedin.com/in/vermadivyam/)
 
 [![Gmail Badge](https://img.shields.io/badge/-divyamverma125@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyamverma125@gmail.com)](mailto:divyamverma125@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_s_o_n_u_v_e_r_m_a_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)](https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)
