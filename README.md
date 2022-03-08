@@ -2,7 +2,7 @@
 Full Stack Developer (React Native (Expo), MERN)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 A computer science enthusiast with college project experience in full stack, mobile development, looking to utilize my knowledge and skills for the organization’s growth.
