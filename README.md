@@ -8,6 +8,7 @@ Full Stack Developer (React Native (Expo), MERN)
 A computer science enthusiast with college project experience in full stack, mobile development, looking to utilize my knowledge and skills for the organization’s growth.
 <ul>
   <li>💻 JavaScript ( React.Js, Redux, Node.Js, Express.Js) , C++ (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
+  <li> Flutter and Dart(Android Developer).</li>
   <li>🌐I am critical system designer.</li>
   <li>🌐 Having good command over HTML5, CSS3, JS.</li>
   <li>🌱 I’m currently learning Web3.0,AI .</li>
