@@ -61,8 +61,8 @@ A computer science enthusiast with college project experience in full stack, mob
 
 [![Linkedin Badge](https://img.shields.io/badge/-vermadivyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermadivyam/)](https://www.linkedin.com/in/vermadivyam/)
 
-![alt text](https://github.com/DivyamCode/DivyamCode/blob/main/plutomoney_logo.jpeg?raw=true) 
-currently working on [Pluto Money Pages](https://plutomoney.in/).
+![alt text](https://github.com/DivyamCode/DivyamCode/blob/main/plutomoney_logo.jpeg?raw=true){ width:50px; }
+currently working on [Pluto Money](https://plutomoney.in/).
 
 [![Gmail Badge](https://img.shields.io/badge/-divyamverma125@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyamverma125@gmail.com)](mailto:divyamverma125@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_s_o_n_u_v_e_r_m_a_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)](https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)
