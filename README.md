@@ -1,21 +1,21 @@
-// ## Hello I am Divyam Verma 👋
-Flutter Developer at [Pluto Money](https://plutomoney.in)
+## Hello, I am Divyam Verma 👋
+Full Stack Developer at [Pluto Money](https://plutomoney.in)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-A computer science enthusiast with college project experience in full stack, mobile development, looking to utilize my knowledge and skills for the organization’s growth.
+A passionate full-stack developer with 1 year of experience in Node.js and Flutter. I aim to utilize my knowledge and skills for the growth of the organization.
+
 <ul>
-  <li>💻 JavaScript ( React.Js, Redux, Node.Js, Express.Js) , C++ (Data Structures), Python (Django, Django Rest Framework) Geek.</li>
-  <li> Flutter and Dart(Android Developer).</li>
-  <li>🌐I am critical system designer.</li>
-  <li>🌐 Having good command over HTML5, CSS3, JS.</li>
-  <li>🌱 I’m currently learning Web3.0,AI .</li>
+  <li>💻 Proficient in Express, Node.js, and Flutter.</li>
+  <li>📱 Experienced in mobile development using Flutter and Dart.</li>
+  <li>🌐 Critical system designer with good command over HTML5, CSS3, and JavaScript.</li>
+  <li>🔧 Familiar with tools like Clevertap and Retool.</li>
+  <li>🌱 Currently learning Web3.0 and AI.</li>
   <li>😎 Managing code with Git Version Control.</li>
-  <li>💬 Ask me about MERN stack and Flutter.</li>
+  <li>💬 Ask me about full-stack development and Flutter.</li>
   <li>😄 Pronouns: He/His.</li>
-  <li>⚡ Fun fact: I love listening song.</li>
+  <li>⚡ Fun fact: I love listening to music.</li>
 </ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -26,6 +26,7 @@ A computer science enthusiast with college project experience in full stack, mob
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -60,8 +61,7 @@ A computer science enthusiast with college project experience in full stack, mob
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-vermadivyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vermadivyam/)](https://www.linkedin.com/in/vermadivyam/)
-
-<img src="https://github.com/DivyamCode/DivyamCode/blob/main/plutomoney_logo.jpeg?raw=true" width="20" height="20">
-
 [![Gmail Badge](https://img.shields.io/badge/-divyamverma125@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyamverma125@gmail.com)](mailto:divyamverma125@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_s_o_n_u_v_e_r_m_a_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)](https://www.instagram.com/_s_o_n_u_v_e_r_m_a_/)
+
+<img src="https://github.com/DivyamCode/DivyamCode/blob/main/plutomoney_logo.jpeg?raw=true" width="20" height="20">
