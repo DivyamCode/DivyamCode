@@ -59,9 +59,9 @@ I'm **selectively available for freelance** — product engineering, core system
 
 <div align="center">
 
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermadivyam&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyamcode&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vermadivyam&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyamcode&layout=compact&theme=default&hide_border=true)
 
 </div>
 
